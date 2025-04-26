@@ -1,0 +1,11 @@
+1. Create header
+   - logo
+   - nav links
+
+2. create body
+   - search bar component
+   - card container --> card component
+
+3. create footer
+   - copyright
+   - social media links
