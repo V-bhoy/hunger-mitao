@@ -1,10 +1,12 @@
 export default function Card({item}){
     return <div className={"card"}>
-        <img className={"card-img"} alt={"food-image"} src={item.image_url}/>
+        <div className={"card-img-container"}>
+            <img className={"card-img"} alt={"resto-image"} src={item.image}/>
+        </div>
         <h3>{item.name}</h3>
-        <h4>{item.cuisine}</h4>
-        <h4>{item.average_rating}</h4>
-        <h4>{item.price_for_two}</h4>
-        <h4>{item.delivery_time}</h4>
+        <h4>{item.cuisines.join(", ")}</h4>
+        <h4>{item.rating}</h4>
+        <h4>{item.costForTwo}</h4>
+        <h4>{item.deliveryTime}</h4>
     </div>
 }

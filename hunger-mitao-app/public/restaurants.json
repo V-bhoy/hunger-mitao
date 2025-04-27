@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Burger Palace",
+    "cuisines": ["Burgers", "American"],
+    "rating": 4.2,
+    "deliveryTime": "30 mins",
+    "costForTwo": "₹300 for two",
+    "image": "https://www.foodiesfeed.com/wp-content/uploads/2023/06/burger-with-melted-cheese.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pasta Fiesta",
+    "cuisines": ["Italian", "Pasta"],
+    "rating": 4.5,
+    "deliveryTime": "25 mins",
+    "costForTwo": "₹450 for two",
+    "image": "https://www.foodiesfeed.com/wp-content/uploads/ff-images/2024/12/refreshing-lemon-cheesecake-slice-with-mint-garnish.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tandoori Flames",
+    "cuisines": ["Indian", "Tandoor"],
+    "rating": 4.0,
+    "deliveryTime": "40 mins",
+    "costForTwo": "₹500 for two",
+    "image": "https://www.foodiesfeed.com/wp-content/uploads/ff-images/2025/01/colorful-bowl-of-deliciousness-with-fried-egg.png"
+  },
+  {
+    "id": 4,
+    "name": "Sushi House",
+    "cuisines": ["Japanese", "Sushi"],
+    "rating": 4.7,
+    "deliveryTime": "45 mins",
+    "costForTwo": "₹800 for two",
+    "image": "https://www.foodiesfeed.com/wp-content/uploads/2023/08/crispy-spicy-chicken-wings.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chowmein Express",
+    "cuisines": ["Chinese", "Noodles"],
+    "rating": 4.1,
+    "deliveryTime": "20 mins",
+    "costForTwo": "₹250 for two",
+    "image": "https://img.freepik.com/free-photo/top-view-bowl-homemade-stew-pepper_23-2148494757.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Pizza Mania",
+    "cuisines": ["Italian", "Pizza"],
+    "rating": 4.3,
+    "deliveryTime": "30 mins",
+    "costForTwo": "₹400 for two",
+    "image": "https://img.freepik.com/premium-photo/indian-hindu-veg-thali-food-platter-selective-focus_466689-35690.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Green Salads",
+    "cuisines": ["Healthy", "Salads"],
+    "rating": 4.6,
+    "deliveryTime": "15 mins",
+    "costForTwo": "₹200 for two",
+    "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19990.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Kebab Nation",
+    "cuisines": ["Indian", "Kebabs"],
+    "rating": 4.4,
+    "deliveryTime": "35 mins",
+    "costForTwo": "₹550 for two",
+    "image": "https://img.freepik.com/premium-photo/spaghetti-bolognese-pasta-with-tomato-sauce-vegetables-minced-meat_2829-2925.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Biryani King",
+    "cuisines": ["Indian", "Biryani"],
+    "rating": 4.5,
+    "deliveryTime": "30 mins",
+    "costForTwo": "₹500 for two",
+    "image": "https://img.freepik.com/premium-photo/stewed-cabbage-with-mushrooms-tomato-sauce_2829-10288.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Wrap It Up",
+    "cuisines": ["Wraps", "Mexican"],
+    "rating": 4.1,
+    "deliveryTime": "20 mins",
+    "costForTwo": "₹250 for two",
+    "image": "https://img.freepik.com/free-photo/delicious-goulash-stew-table_23-2149371727.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 11,
+    "name": "Sweet Cravings",
+    "cuisines": ["Desserts", "Bakery"],
+    "rating": 4.7,
+    "deliveryTime": "15 mins",
+    "costForTwo": "₹300 for two",
+    "image": "https://img.freepik.com/free-photo/side-view-baked-potatoes-with-lamb-meat-vegetables-clay-bowl-black-table_140725-11832.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 12,
+    "name": "The Vegan Corner",
+    "cuisines": ["Vegan", "Healthy"],
+    "rating": 4.2,
+    "deliveryTime": "25 mins",
+    "costForTwo": "₹350 for two",
+    "image": "https://img.freepik.com/free-photo/tortilla-wraps-with-meat-fresh-vegetables_2829-9337.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 13,
+    "name": "Steak World",
+    "cuisines": ["American", "Steaks"],
+    "rating": 4.8,
+    "deliveryTime": "45 mins",
+    "costForTwo": "₹900 for two",
+    "image": "https://img.freepik.com/free-photo/top-view-meat-sauce-soup-with-potatoes-greens-dark-floor_140725-76779.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 14,
+    "name": "Dosa Delight",
+    "cuisines": ["South Indian", "Dosa"],
+    "rating": 4.3,
+    "deliveryTime": "20 mins",
+    "costForTwo": "₹200 for two",
+    "image": "https://img.freepik.com/premium-photo/vegan-buckwheat-soba-noodles-with-vegetables-black-plate_79830-1465.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 15,
+    "name": "Pav Bhaji Junction",
+    "cuisines": ["Indian", "Street Food"],
+    "rating": 4.0,
+    "deliveryTime": "25 mins",
+    "costForTwo": "₹250 for two",
+    "image": "https://img.freepik.com/free-photo/delicious-hawaiian-pizza-cooking-ingredients_1150-24287.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 16,
+    "name": "Momolicious",
+    "cuisines": ["Tibetan", "Momos"],
+    "rating": 4.5,
+    "deliveryTime": "20 mins",
+    "costForTwo": "₹200 for two",
+    "image": "https://img.freepik.com/free-photo/view-delicious-dish-food_23-2150777711.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 17,
+    "name": "The Thai Kitchen",
+    "cuisines": ["Thai", "Asian"],
+    "rating": 4.6,
+    "deliveryTime": "40 mins",
+    "costForTwo": "₹600 for two",
+    "image": "https://img.freepik.com/free-photo/side-view-doner-with-grilled-chicken-greens-lettuce-tomato-french-fries-table_141793-4881.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 18,
+    "name": "Grill Point",
+    "cuisines": ["BBQ", "Grill"],
+    "rating": 4.2,
+    "deliveryTime": "35 mins",
+    "costForTwo": "₹700 for two",
+    "image": "https://img.freepik.com/free-photo/side-view-chicken-burger-deep-fired-chicken-fillet-with-tomato-cheese-lettuce-burger-buns_141793-4816.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 19,
+    "name": "Falafel Fusion",
+    "cuisines": ["Middle Eastern", "Falafel"],
+    "rating": 4.1,
+    "deliveryTime": "30 mins",
+    "costForTwo": "₹400 for two",
+    "image": "https://img.freepik.com/free-photo/hotdog-with-ketchup-mustard-lettuce-wooden-table_2829-19813.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 20,
+    "name": "Pancake Plaza",
+    "cuisines": ["Desserts", "Breakfast"],
+    "rating": 4.7,
+    "deliveryTime": "20 mins",
+    "costForTwo": "₹300 for two",
+    "image": "https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-board-cookware_176474-3215.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 21,
+    "name": "Wok & Roll",
+    "cuisines": ["Chinese", "Asian"],
+    "rating": 4.4,
+    "deliveryTime": "30 mins",
+    "costForTwo": "₹450 for two",
+    "image": "https://img.freepik.com/premium-photo/assorted-indian-food-group_466689-36088.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 22,
+    "name": "Soup Station",
+    "cuisines": ["Healthy", "Soups"],
+    "rating": 4.3,
+    "deliveryTime": "25 mins",
+    "costForTwo": "₹300 for two",
+    "image": "https://img.freepik.com/free-photo/georgian-peas-soup-table_140725-9218.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 23,
+    "name": "BBQ Nation",
+    "cuisines": ["BBQ", "Indian"],
+    "rating": 4.5,
+    "deliveryTime": "40 mins",
+    "costForTwo": "₹1000 for two",
+    "image": "https://img.freepik.com/free-photo/vegetable-salad-with-mushrooms-board-with-mushrooms_140725-9176.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 24,
+    "name": "The Coffee Hub",
+    "cuisines": ["Cafe", "Coffee"],
+    "rating": 4.2,
+    "deliveryTime": "15 mins",
+    "costForTwo": "₹250 for two",
+    "image": "https://img.freepik.com/free-photo/front-view-meat-sauce-soup-with-greens-potatoes-dark-desk-soup-dinner-sauce-meat_140725-79068.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 25,
+    "name": "Pizzeria Italiano",
+    "cuisines": ["Italian", "Pizza"],
+    "rating": 4.3,
+    "deliveryTime": "30 mins",
+    "costForTwo": "₹500 for two",
+    "image": "https://img.freepik.com/free-photo/bottom-view-chicken-nuggets-lettuce-sauce-plate-dark-red-table_140725-112074.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 26,
+    "name": "Smoothie Central",
+    "cuisines": ["Healthy", "Smoothies"],
+    "rating": 4.7,
+    "deliveryTime": "20 mins",
+    "costForTwo": "₹350 for two",
+    "image": "https://img.freepik.com/premium-photo/spicy-potatoes-with-bread-lemon_740787-2.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 27,
+    "name": "Donut Delight",
+    "cuisines": ["Desserts", "Bakery"],
+    "rating": 4.6,
+    "deliveryTime": "15 mins",
+    "costForTwo": "₹200 for two",
+    "image": "https://img.freepik.com/free-photo/front-view-meat-sauce-soup-with-greens-potatoes-dark-desk-soup-meal-sauce-meat_140725-79069.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 28,
+    "name": "The Waffle Story",
+    "cuisines": ["Desserts", "Breakfast"],
+    "rating": 4.4,
+    "deliveryTime": "20 mins",
+    "costForTwo": "₹300 for two",
+    "image": "https://img.freepik.com/free-photo/spicy-mexican-food-with-red-hot-chilli-peppers_23-2148224114.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 29,
+    "name": "Taco Time",
+    "cuisines": ["Mexican", "Tacos"],
+    "rating": 4.2,
+    "deliveryTime": "25 mins",
+    "costForTwo": "₹350 for two",
+    "image": "https://img.freepik.com/free-photo/side-view-chicken-skewers-grilled-chicken-with-tomato-bell-pepper-sauce-lettuce-plate_141793-4856.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 30,
+    "name": "Bento Box",
+    "cuisines": ["Japanese", "Lunchbox"],
+    "rating": 4.5,
+    "deliveryTime": "40 mins",
+    "costForTwo": "₹600 for two",
+    "image": "https://img.freepik.com/free-photo/mushroom-julienne-with-green-table_140725-5335.jpg?ga=GA1.1.1964804485.1745676735&semt=ais_hybrid&w=740"
+  }
+]
