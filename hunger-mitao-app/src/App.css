@@ -35,3 +35,34 @@
   list-style-type: none;
   font-size: 1.2rem;
 }
+
+.body{
+  border: 1px solid black;
+}
+
+.search-bar {
+  border: 1px solid black;
+}
+
+.card-container {
+  padding: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.card {
+  border: 1px solid black;
+  width: 300px;
+  padding: 5px;
+}
+
+.card:hover {
+  cursor: pointer;
+  background-color: oldlace;
+}
+
+.card-img {
+  width: 100%;
+}
